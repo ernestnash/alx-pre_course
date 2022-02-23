@@ -1,2 +1,6 @@
+
+git pull origin master
+
 $ git pull [<options>] [<repository> [<refspec>…]]
 $ git clone --bare https://github.com/username/repository-name.git
+
