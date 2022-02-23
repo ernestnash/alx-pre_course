@@ -1,1 +1,3 @@
-my first README.md
+# ALX Git Course
+
+Learning about navigation in Git

@@ -1,2 +1,3 @@
-a non empty README.md file n my 0x01-git repository
+# ALX Git pre_Course
 
+Learning about navigation in Git
